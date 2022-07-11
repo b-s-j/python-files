@@ -4,3 +4,7 @@ Subject: Data Analytics Using Python.
 
 Topics for this project are as follows:
 1. Python Automation Web Scraping and Processing Excel Reports Email and many more. 
+2. 
+3.
+4. 
+5.
